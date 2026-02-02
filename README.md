@@ -32,12 +32,12 @@ To showcase the user journey and the system's analytical capabilities, I have in
 
 ### 1. System Landing Page
 The landing page is designed with a "Patient-First" approach, focusing on a clean, medical-grade aesthetic that minimizes user friction.
-![RetinAI Landing Page](./assets/Landing%20Page.png)
+![RetinAI Landing Page](./assets/LandingPage.png)
 * This screenshot illustrates the initial state of the application. It highlights the intuitive "Drag & Drop" zone and the clear layout that prepares the user for a seamless diagnostic experience.
 
 ### 2. Prediction & Analysis Interface
 Once a retinal scan is uploaded, the AI processes the image to provide a multi-class probability breakdown.
-![RetinAI Prediction Interface](./assets/Prediction%20Interface.jpg)
+![RetinAI Prediction Interface](./assets/PredictionInterface.png)
 * This screenshot demonstrates the core intelligence of the system in action. After analyzing the fundus scan, the model classifies the condition (e.g., "Moderate") and provides a detailed confidence bar chart. This transparency allows practitioners to see the model's certainty across all five potential stages.
 
 ## 🏗️ Technical Stack
